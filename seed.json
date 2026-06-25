@@ -1,0 +1,1195 @@
+﻿{
+    "usuarios":  [
+                     {
+                         "IdRegistro":  "1003065",
+                         "CodZona":  "3-ZONA NORTE",
+                         "NomSupervisor":  "Jose Maria Solis Bustos",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor",
+                         "Correo":  "josemaria.solis@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1002763",
+                         "CodZona":  "2-ZONA CENTRO",
+                         "NomSupervisor":  "Yener Eduardo Ruiz Ugarte",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor",
+                         "Correo":  "yener.ruiz@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1003928",
+                         "CodZona":  "1-ZONA SUR",
+                         "NomSupervisor":  "Javier Antonio Delgado Villagra",
+                         "Contraseña":  "123",
+                         "Cargo":  "Jefe de Zona",
+                         "Correo":  "javier.delgado@casur.onmicrosoft.com"
+                     },
+                     {
+                         "IdRegistro":  "1000489",
+                         "CodZona":  "3-ZONA NORTE",
+                         "NomSupervisor":  "Erlis Mena Parrales",
+                         "Contraseña":  "123",
+                         "Cargo":  "Jefe de Zona",
+                         "Correo":  "erlis.mena@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1004856",
+                         "CodZona":  "1-ZONA SUR",
+                         "NomSupervisor":  "Geovanny Salvador Cerda Torrez",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor",
+                         "Correo":  "geovanny.cerda@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1005977",
+                         "CodZona":  "2-ZONA CENTRO",
+                         "NomSupervisor":  "Milton Alberto Rodriguez Maldonado",
+                         "Contraseña":  "123",
+                         "Cargo":  "Jefe de Zona",
+                         "Correo":  "milton.rodriguez@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1007189",
+                         "CodZona":  "0",
+                         "NomSupervisor":  "Edgardo Renato Madrigal Melendez",
+                         "Contraseña":  "0",
+                         "Cargo":  "Jefe de Agronomia",
+                         "Correo":  "edgardo.madrigal@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1002500",
+                         "CodZona":  "Analisis de Informacion",
+                         "NomSupervisor":  "Francisco Antonio Chirips Bello",
+                         "Contraseña":  "1234",
+                         "Cargo":  "Jefe de I.A.",
+                         "Correo":  "francisco.shirips@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1004769",
+                         "CodZona":  "Plagas y Enfermedades",
+                         "NomSupervisor":  "Gladys del Carmen Rodriguez",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor de Plagas",
+                         "Correo":  "gladys.rodriguez@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1003067",
+                         "CodZona":  "Siembra",
+                         "NomSupervisor":  "Tomas Ariel Montano Corea",
+                         "Contraseña":  "123",
+                         "Cargo":  "Jefe de Siembra",
+                         "Correo":  "tomas.montano@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "slopez",
+                         "CodZona":  "0",
+                         "NomSupervisor":  "Sergio Armando Lopez Navas",
+                         "Contraseña":  "123",
+                         "Cargo":  "Gerente Agricola",
+                         "Correo":  "sergio.lopez@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1004950",
+                         "CodZona":  "2-ZONA CENTRO",
+                         "NomSupervisor":  "David Enmanuel Osorno Ordoñez",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor",
+                         "Correo":  "david.osorno@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1002170",
+                         "CodZona":  "0",
+                         "NomSupervisor":  "Carlos Ivan Montano Bello",
+                         "Contraseña":  "123",
+                         "Cargo":  "Fiscal de Muestreo",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1002033",
+                         "CodZona":  "0",
+                         "NomSupervisor":  "Jose David Villarreal Acevedo",
+                         "Contraseña":  "123",
+                         "Cargo":  "Fiscal de Calidad de Labores",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "9001001",
+                         "CodZona":  "0",
+                         "NomSupervisor":  "Usuario de Laboratorio",
+                         "Contraseña":  "123",
+                         "Cargo":  "Usuario General Laboratorio",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1004764",
+                         "CodZona":  "0",
+                         "NomSupervisor":  "William Francisco Rizo Lopez",
+                         "Contraseña":  "123",
+                         "Cargo":  "Fiscal de Calidad de Labores",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1004705",
+                         "CodZona":  "0",
+                         "NomSupervisor":  "DELGADO MONJARREZ KEVIN MARTIN",
+                         "Contraseña":  "0",
+                         "Cargo":  "Supervisor de Calidad de Labores",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1002770",
+                         "CodZona":  "0",
+                         "NomSupervisor":  "Engel Jose Perez Parrales",
+                         "Contraseña":  "123",
+                         "Cargo":  "Analista C - Laboratorio",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1003746",
+                         "CodZona":  "0",
+                         "NomSupervisor":  "Jorge Luis Suarez Soza",
+                         "Contraseña":  "123",
+                         "Cargo":  "Analista C - Laboratorio",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1002903",
+                         "CodZona":  "0",
+                         "NomSupervisor":  "Ricardo Antonio Cantillano Quiroz",
+                         "Contraseña":  "123",
+                         "Cargo":  "Analista C - Laboratorio",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1003862",
+                         "CodZona":  "CUARENTENA",
+                         "NomSupervisor":  "Ariel Francisco Peralta Romero",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor de Variedades",
+                         "Correo":  "ariel.peralta@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1002718",
+                         "CodZona":  "0",
+                         "NomSupervisor":  "Marcos Pablo Marenco Umaña",
+                         "Contraseña":  "123",
+                         "Cargo":  "Obs. Meteorologia",
+                         "Correo":  "marco.marenco@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1006028",
+                         "CodZona":  "APS",
+                         "NomSupervisor":  "Francisco Antonio Montano Perez",
+                         "Contraseña":  "123",
+                         "Cargo":  "Sup. Preparacion",
+                         "Correo":  "francisco.montano@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1000557",
+                         "CodZona":  "APS",
+                         "NomSupervisor":  "Esteban Rufino Mendoza",
+                         "Contraseña":  "123",
+                         "Cargo":  "Jefe de Ingenieria Agricola",
+                         "Correo":  "esteban.mendoza@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1006840",
+                         "CodZona":  "Informacion Agricola",
+                         "NomSupervisor":  "Fransheska Leonor Tijerino Pavon",
+                         "Contraseña":  "123",
+                         "Cargo":  "Asistente de I.A.",
+                         "Correo":  "ftijerino@casur.onmicrosoft.com"
+                     },
+                     {
+                         "IdRegistro":  "1004570",
+                         "CodZona":  "Recursos Hidricos",
+                         "NomSupervisor":  "Alvaro Jose Gamez Flores",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor de Recursos Hidricos",
+                         "Correo":  "alvaro.gamez@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1002784",
+                         "CodZona":  "APS",
+                         "NomSupervisor":  "Berman Ismaldo Rivera",
+                         "Contraseña":  "123",
+                         "Cargo":  "Jefe de Preparacion de Suelos",
+                         "Correo":  "berman.rivera@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1005010",
+                         "CodZona":  "APS",
+                         "NomSupervisor":  "Osmany Liban Rivera Marin",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor de Nivelacion",
+                         "Correo":  "osmany.rivera@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1007737",
+                         "CodZona":  "APS",
+                         "NomSupervisor":  "Jose David Tenorio Gonzalez",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor de Preparacion",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1006614",
+                         "CodZona":  "APS",
+                         "NomSupervisor":  "Eveling Mariuzka Chirips Bello",
+                         "Contraseña":  "123",
+                         "Cargo":  "Fiscal de Nivelacion",
+                         "Correo":  "eveling.chirips@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1006839",
+                         "CodZona":  "3-ZONA NORTE",
+                         "NomSupervisor":  "Francisco Jose Cruz Busto",
+                         "Contraseña":  "123",
+                         "Cargo":  "Bodeguero",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1006517",
+                         "CodZona":  "1-ZONA SUR",
+                         "NomSupervisor":  "Bryan Samuel Flores",
+                         "Contraseña":  "123",
+                         "Cargo":  "Fiscal de Fertilizacion",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1006828",
+                         "CodZona":  "2-ZONA CENTRO",
+                         "NomSupervisor":  "Crithofer Mariano Bustos Incer",
+                         "Contraseña":  "123",
+                         "Cargo":  "Bodeguero",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1007189",
+                         "CodZona":  "Agronomia",
+                         "NomSupervisor":  "Edgardo Renato Madrigal Melendez",
+                         "Contraseña":  "123",
+                         "Cargo":  "Jefe de Agronomia",
+                         "Correo":  "edgardo.madrigal@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1006337",
+                         "CodZona":  "Plagas y Enfermedades",
+                         "NomSupervisor":  "Geral Josué Marin Tijerino",
+                         "Contraseña":  "123",
+                         "Cargo":  "Fiscal de Muestreo",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1007695",
+                         "CodZona":  "1-ZONA SUR",
+                         "NomSupervisor":  "Roberto de Jesus Jimenez",
+                         "Contraseña":  "123",
+                         "Cargo":  "Auxiliar de Zona",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1007147",
+                         "CodZona":  "2-ZONA CENTRO",
+                         "NomSupervisor":  "Joselin de Los Angeles Cruz López",
+                         "Contraseña":  "123",
+                         "Cargo":  "Bodeguero",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1007077",
+                         "CodZona":  "Siembra",
+                         "NomSupervisor":  "Cesar José Espinoza Acuña",
+                         "Contraseña":  "123",
+                         "Cargo":  "Fiscal de Siembra",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1005941",
+                         "CodZona":  "3-ZONA NORTE",
+                         "NomSupervisor":  "Alex Antonio Incer Avendaño",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor",
+                         "Correo":  ""
+                     },
+                     {
+                         "IdRegistro":  "1007459",
+                         "CodZona":  "5-PRODUCTORES",
+                         "NomSupervisor":  "Cesar Alejandro Montesinos Zelaya",
+                         "Contraseña":  "123",
+                         "Cargo":  "Jefe de Atencion a Productores",
+                         "Correo":  "cmontesinos@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "9001002",
+                         "CodZona":  "1-ZONA SUR",
+                         "NomSupervisor":  "Arnol Antonio Mosquera Riascos",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor Zona Sur",
+                         "Correo":  "armosquera@ingeniomayaguez.com"
+                     },
+                     {
+                         "IdRegistro":  "0",
+                         "CodZona":  "2-ZONA CENTRO",
+                         "NomSupervisor":  "Carolina Altamirano Oñate",
+                         "Contraseña":  "123",
+                         "Cargo":  "Aplicación de Madurante",
+                         "Correo":  "carolina.altamirano@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1006137",
+                         "CodZona":  "5-PRODUCTORES",
+                         "NomSupervisor":  "Carlos Jose Tijerino Montealto",
+                         "Contraseña":  "123",
+                         "Cargo":  "Supervisor de Atencion a Productores",
+                         "Correo":  "carlos.tijerino@casur.com.ni"
+                     },
+                     {
+                         "IdRegistro":  "1007388",
+                         "CodZona":  "Recursos Hidricos",
+                         "NomSupervisor":  "Hatziri Yulesca Tijerino Silva",
+                         "Contraseña":  "123",
+                         "Cargo":  "Fiscal de Recursos Hidricos",
+                         "Correo":  "hatziri.tijerino@casur.com.ni"
+                     }
+                 ],
+    "pluviometros":  [
+                         {
+                             "Codigo":  "10-07",
+                             "NomPluviometro":  "El Salitre 07",
+                             "CodHacienda":  "10",
+                             "CodSuerte":  "07",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  89.35
+                         },
+                         {
+                             "Codigo":  "1-01",
+                             "NomPluviometro":  "Ochomogo 01",
+                             "CodHacienda":  "758",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  46.43
+                         },
+                         {
+                             "Codigo":  "10-10",
+                             "NomPluviometro":  "El Salitre 10",
+                             "CodHacienda":  "10",
+                             "CodSuerte":  "10",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  36.61
+                         },
+                         {
+                             "Codigo":  "10-14",
+                             "NomPluviometro":  "El Salitre 14",
+                             "CodHacienda":  "10",
+                             "CodSuerte":  "14",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  85.48
+                         },
+                         {
+                             "Codigo":  "10-23",
+                             "NomPluviometro":  "El Salitre 23",
+                             "CodHacienda":  "10",
+                             "CodSuerte":  "23",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  190.51
+                         },
+                         {
+                             "Codigo":  "1-07",
+                             "NomPluviometro":  "Ochomogo 07",
+                             "CodHacienda":  "1",
+                             "CodSuerte":  "07",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  98.42
+                         },
+                         {
+                             "Codigo":  "11-01",
+                             "NomPluviometro":  "Veracruz 01",
+                             "CodHacienda":  "11",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  66.06
+                         },
+                         {
+                             "Codigo":  "11-05",
+                             "NomPluviometro":  "Veracruz 05",
+                             "CodHacienda":  "11",
+                             "CodSuerte":  "05",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  55.02
+                         },
+                         {
+                             "Codigo":  "1-12",
+                             "NomPluviometro":  "Ochomogo 12",
+                             "CodHacienda":  "1",
+                             "CodSuerte":  "12",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  73.98
+                         },
+                         {
+                             "Codigo":  "1-17",
+                             "NomPluviometro":  "Ochomogo 17",
+                             "CodHacienda":  "1",
+                             "CodSuerte":  "17",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  80.23
+                         },
+                         {
+                             "Codigo":  "12-01",
+                             "NomPluviometro":  "Llano Bonito 01",
+                             "CodHacienda":  "12",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  79.46
+                         },
+                         {
+                             "Codigo":  "12-11",
+                             "NomPluviometro":  "Llano Bonito 11",
+                             "CodHacienda":  "12",
+                             "CodSuerte":  "11",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  136.95
+                         },
+                         {
+                             "Codigo":  "12-21",
+                             "NomPluviometro":  "Llano Bonito 21",
+                             "CodHacienda":  "12",
+                             "CodSuerte":  "21",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  32.75
+                         },
+                         {
+                             "Codigo":  "147-04",
+                             "NomPluviometro":  "El Volcan CSR 04",
+                             "CodHacienda":  "147",
+                             "CodSuerte":  "04",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  80.96
+                         },
+                         {
+                             "Codigo":  "147-08",
+                             "NomPluviometro":  "El Volcan CSR 08",
+                             "CodHacienda":  "147",
+                             "CodSuerte":  "08",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  79.85
+                         },
+                         {
+                             "Codigo":  "147-16",
+                             "NomPluviometro":  "El Volcan CSR 16",
+                             "CodHacienda":  "147",
+                             "CodSuerte":  "16",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  72.66
+                         },
+                         {
+                             "Codigo":  "147-18",
+                             "NomPluviometro":  "El Volcan CSR 18",
+                             "CodHacienda":  "147",
+                             "CodSuerte":  "18",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  88.12
+                         },
+                         {
+                             "Codigo":  "147-22",
+                             "NomPluviometro":  "El Volcan CSR 22",
+                             "CodHacienda":  "147",
+                             "CodSuerte":  "22",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  57.62
+                         },
+                         {
+                             "Codigo":  "147-29",
+                             "NomPluviometro":  "El Volcan CSR 29",
+                             "CodHacienda":  "147",
+                             "CodSuerte":  "29",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  37.61
+                         },
+                         {
+                             "Codigo":  "148-01",
+                             "NomPluviometro":  "San Ramon 01",
+                             "CodHacienda":  "148",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  48.7
+                         },
+                         {
+                             "Codigo":  "15-04",
+                             "NomPluviometro":  "San Fernandito 04",
+                             "CodHacienda":  "15",
+                             "CodSuerte":  "04",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  81.94
+                         },
+                         {
+                             "Codigo":  "157-02",
+                             "NomPluviometro":  "La Virgen 02",
+                             "CodHacienda":  "157",
+                             "CodSuerte":  "02",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  60.13
+                         },
+                         {
+                             "Codigo":  "158-02",
+                             "NomPluviometro":  "Santa Teresa PRCS 02",
+                             "CodHacienda":  "158",
+                             "CodSuerte":  "02",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  85.39
+                         },
+                         {
+                             "Codigo":  "159-02",
+                             "NomPluviometro":  "PROCARSA (CASUR)",
+                             "CodHacienda":  "159",
+                             "CodSuerte":  "02",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  145.68
+                         },
+                         {
+                             "Codigo":  "17-01",
+                             "NomPluviometro":  "La Esperanza 01",
+                             "CodHacienda":  "17",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  55.69
+                         },
+                         {
+                             "Codigo":  "18-11",
+                             "NomPluviometro":  "Santa Fe 11",
+                             "CodHacienda":  "18",
+                             "CodSuerte":  "11",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  69.6
+                         },
+                         {
+                             "Codigo":  "19-03",
+                             "NomPluviometro":  "San Fernando 03",
+                             "CodHacienda":  "19",
+                             "CodSuerte":  "03",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  92.61
+                         },
+                         {
+                             "Codigo":  "19-14",
+                             "NomPluviometro":  "San Fernando 14",
+                             "CodHacienda":  "19",
+                             "CodSuerte":  "14",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  98.27
+                         },
+                         {
+                             "Codigo":  "19-21",
+                             "NomPluviometro":  "San Fernando 21",
+                             "CodHacienda":  "19",
+                             "CodSuerte":  "21",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  126.38
+                         },
+                         {
+                             "Codigo":  "2-01",
+                             "NomPluviometro":  "San Jerónimo 01",
+                             "CodHacienda":  "2",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  128.35
+                         },
+                         {
+                             "Codigo":  "20-11",
+                             "NomPluviometro":  "San Lucas 11",
+                             "CodHacienda":  "20",
+                             "CodSuerte":  "11",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  135.75
+                         },
+                         {
+                             "Codigo":  "2-16",
+                             "NomPluviometro":  "San Jerónimo 16",
+                             "CodHacienda":  "2",
+                             "CodSuerte":  "16",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  139.68
+                         },
+                         {
+                             "Codigo":  "22-02",
+                             "NomPluviometro":  "El Limon 02",
+                             "CodHacienda":  "22",
+                             "CodSuerte":  "02",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  116.23
+                         },
+                         {
+                             "Codigo":  "22-22A",
+                             "NomPluviometro":  "EL LIMON 22",
+                             "CodHacienda":  "22",
+                             "CodSuerte":  "22",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  76.35
+                         },
+                         {
+                             "Codigo":  "2-28",
+                             "NomPluviometro":  "San Jerónimo 28",
+                             "CodHacienda":  "2",
+                             "CodSuerte":  "28",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  129.43
+                         },
+                         {
+                             "Codigo":  "2-30",
+                             "NomPluviometro":  "San Jerónimo 30",
+                             "CodHacienda":  "2",
+                             "CodSuerte":  "30",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  128.39
+                         },
+                         {
+                             "Codigo":  "2-43",
+                             "NomPluviometro":  "San Jerónimo 43",
+                             "CodHacienda":  "2",
+                             "CodSuerte":  "43",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  109.86
+                         },
+                         {
+                             "Codigo":  "256-03",
+                             "NomPluviometro":  "Dolores 03",
+                             "CodHacienda":  "256",
+                             "CodSuerte":  "03",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  158.57
+                         },
+                         {
+                             "Codigo":  "2-60",
+                             "NomPluviometro":  "San Jerónimo 60",
+                             "CodHacienda":  "2",
+                             "CodSuerte":  "60",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  89.35
+                         },
+                         {
+                             "Codigo":  "2-61",
+                             "NomPluviometro":  "San Jerónimo 61",
+                             "CodHacienda":  "2",
+                             "CodSuerte":  "61",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  114.31
+                         },
+                         {
+                             "Codigo":  "27-01",
+                             "NomPluviometro":  "RIO DE JANEIRO 01",
+                             "CodHacienda":  "27",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  32
+                         },
+                         {
+                             "Codigo":  "2-77",
+                             "NomPluviometro":  "Nacascolo 77",
+                             "CodHacienda":  "2",
+                             "CodSuerte":  "77",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  91.51
+                         },
+                         {
+                             "Codigo":  "2-79",
+                             "NomPluviometro":  "Nacascolo 79",
+                             "CodHacienda":  "2",
+                             "CodSuerte":  "79",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  149.55
+                         },
+                         {
+                             "Codigo":  "28-02",
+                             "NomPluviometro":  "OJO DE AGUA 02",
+                             "CodHacienda":  "28",
+                             "CodSuerte":  "02",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  45.68
+                         },
+                         {
+                             "Codigo":  "2-88",
+                             "NomPluviometro":  "San Jerónimo 88",
+                             "CodHacienda":  "2",
+                             "CodSuerte":  "88",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  65.77
+                         },
+                         {
+                             "Codigo":  "30-03",
+                             "NomPluviometro":  "San Francisco 03",
+                             "CodHacienda":  "913",
+                             "CodSuerte":  "03",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  57.32
+                         },
+                         {
+                             "Codigo":  "31-02",
+                             "NomPluviometro":  "Las Brisas 02",
+                             "CodHacienda":  "31",
+                             "CodSuerte":  "02",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  65.1
+                         },
+                         {
+                             "Codigo":  "32-05",
+                             "NomPluviometro":  "El Sitio 05",
+                             "CodHacienda":  "32",
+                             "CodSuerte":  "05",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  65.22
+                         },
+                         {
+                             "Codigo":  "32-11",
+                             "NomPluviometro":  "El Sitio 11",
+                             "CodHacienda":  "32",
+                             "CodSuerte":  "11",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  88.85
+                         },
+                         {
+                             "Codigo":  "32-15",
+                             "NomPluviometro":  "COOP MIGUEL ANGEL VASQUEZ",
+                             "CodHacienda":  "39",
+                             "CodSuerte":  "03",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  128.1
+                         },
+                         {
+                             "Codigo":  "3-32",
+                             "NomPluviometro":  "El Javillo 32",
+                             "CodHacienda":  "3",
+                             "CodSuerte":  "32",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  83.57
+                         },
+                         {
+                             "Codigo":  "3-36",
+                             "NomPluviometro":  "El Javillo 36",
+                             "CodHacienda":  "3",
+                             "CodSuerte":  "36",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  63.36
+                         },
+                         {
+                             "Codigo":  "3-47",
+                             "NomPluviometro":  "Javillo 47",
+                             "CodHacienda":  "3",
+                             "CodSuerte":  "47",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  14.95
+                         },
+                         {
+                             "Codigo":  "3-52",
+                             "NomPluviometro":  "El Javillo 52",
+                             "CodHacienda":  "3",
+                             "CodSuerte":  "52",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  69.03
+                         },
+                         {
+                             "Codigo":  "3-62",
+                             "NomPluviometro":  "El Javillo 62",
+                             "CodHacienda":  "3",
+                             "CodSuerte":  "62",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  74.99
+                         },
+                         {
+                             "Codigo":  "40-03",
+                             "NomPluviometro":  "Carlos Matamoro",
+                             "CodHacienda":  "40",
+                             "CodSuerte":  "03",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  18.37
+                         },
+                         {
+                             "Codigo":  "4-04",
+                             "NomPluviometro":  "Ñocarime 04",
+                             "CodHacienda":  "4",
+                             "CodSuerte":  "04",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  139.45
+                         },
+                         {
+                             "Codigo":  "4-07",
+                             "NomPluviometro":  "Ñocarime 07",
+                             "CodHacienda":  "4",
+                             "CodSuerte":  "07",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  94.46
+                         },
+                         {
+                             "Codigo":  "5-02",
+                             "NomPluviometro":  "Los Arcos 02",
+                             "CodHacienda":  "5",
+                             "CodSuerte":  "02",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  84.49
+                         },
+                         {
+                             "Codigo":  "5-06",
+                             "NomPluviometro":  "Los Arcos 06",
+                             "CodHacienda":  "5",
+                             "CodSuerte":  "06",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  103.94
+                         },
+                         {
+                             "Codigo":  "516-10",
+                             "NomPluviometro":  "Cabosa 10",
+                             "CodHacienda":  "516",
+                             "CodSuerte":  "10",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  80.49
+                         },
+                         {
+                             "Codigo":  "5-17",
+                             "NomPluviometro":  "Los Arcos 17",
+                             "CodHacienda":  "5",
+                             "CodSuerte":  "17",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  133.25
+                         },
+                         {
+                             "Codigo":  "520-06",
+                             "NomPluviometro":  "Cabosa - Magdalena 06",
+                             "CodHacienda":  "520",
+                             "CodSuerte":  "06",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  104.94
+                         },
+                         {
+                             "Codigo":  "5-25",
+                             "NomPluviometro":  "Los Arcos 25",
+                             "CodHacienda":  "5",
+                             "CodSuerte":  "25",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  117.63
+                         },
+                         {
+                             "Codigo":  "60-01",
+                             "NomPluviometro":  "SANTA MARTHA",
+                             "CodHacienda":  "60",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  68.4
+                         },
+                         {
+                             "Codigo":  "62-01",
+                             "NomPluviometro":  "Maria Teresa Chamorro Tijerino ",
+                             "CodHacienda":  "62",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  5,
+                             "Zona":  "5-PRODUCTORES",
+                             "nAreaInfluencia":  162.66
+                         },
+                         {
+                             "Codigo":  "63-01",
+                             "NomPluviometro":  "El POLIGONO",
+                             "CodHacienda":  "63",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  5,
+                             "Zona":  "5-PRODUCTORES",
+                             "nAreaInfluencia":  176.96
+                         },
+                         {
+                             "Codigo":  "64-01",
+                             "NomPluviometro":  "Los Cacos 01",
+                             "CodHacienda":  "64",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  5,
+                             "Zona":  "5-PRODUCTORES",
+                             "nAreaInfluencia":  42.9
+                         },
+                         {
+                             "Codigo":  "70-08",
+                             "NomPluviometro":  "SILVIO RODRIGUEZ (TERESA)",
+                             "CodHacienda":  "70",
+                             "CodSuerte":  "08",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  75.43
+                         },
+                         {
+                             "Codigo":  "70-12",
+                             "NomPluviometro":  "SILVIO RODRIGUEZ (TERESA)",
+                             "CodHacienda":  "70",
+                             "CodSuerte":  "12",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  70.68
+                         },
+                         {
+                             "Codigo":  "7-05",
+                             "NomPluviometro":  "Amayo 05",
+                             "CodHacienda":  "22",
+                             "CodSuerte":  "05",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  54.27
+                         },
+                         {
+                             "Codigo":  "740-03",
+                             "NomPluviometro":  "El Porvenir 03",
+                             "CodHacienda":  "740",
+                             "CodSuerte":  "03",
+                             "CodigoZona":  7,
+                             "Zona":  "7-ZONA TISMA",
+                             "nAreaInfluencia":  80.19
+                         },
+                         {
+                             "Codigo":  "758-02",
+                             "NomPluviometro":  "Javier Guerra 02",
+                             "CodHacienda":  "758",
+                             "CodSuerte":  "02",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  127.67
+                         },
+                         {
+                             "Codigo":  "758-16",
+                             "NomPluviometro":  "Javier Guerra 16",
+                             "CodHacienda":  "758",
+                             "CodSuerte":  "16",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  96.22
+                         },
+                         {
+                             "Codigo":  "758-36",
+                             "NomPluviometro":  "Javier Guerra 36",
+                             "CodHacienda":  "758",
+                             "CodSuerte":  "36",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  86.98
+                         },
+                         {
+                             "Codigo":  "758-41",
+                             "NomPluviometro":  "Javier Guerra 41",
+                             "CodHacienda":  "758",
+                             "CodSuerte":  "41",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  142.63
+                         },
+                         {
+                             "Codigo":  "878-01",
+                             "NomPluviometro":  "El Amparo 01",
+                             "CodHacienda":  "878",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  54.88
+                         },
+                         {
+                             "Codigo":  "878-08",
+                             "NomPluviometro":  "El Amparo 08",
+                             "CodHacienda":  "878",
+                             "CodSuerte":  "08",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  65.95
+                         },
+                         {
+                             "Codigo":  "9-01",
+                             "NomPluviometro":  "La Pradera 01",
+                             "CodHacienda":  "9",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  70.63
+                         },
+                         {
+                             "Codigo":  "910-01",
+                             "NomPluviometro":  "Miramar",
+                             "CodHacienda":  "910",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  1,
+                             "Zona":  "CUARENTENA",
+                             "nAreaInfluencia":  2.98
+                         },
+                         {
+                             "Codigo":  "91-01",
+                             "NomPluviometro":  "San Felipe 01",
+                             "CodHacienda":  "91",
+                             "CodSuerte":  "01",
+                             "CodigoZona":  1,
+                             "Zona":  "1-ZONA SUR",
+                             "nAreaInfluencia":  48.11
+                         },
+                         {
+                             "Codigo":  "983-06",
+                             "NomPluviometro":  "Rancho Peirano 06",
+                             "CodHacienda":  "983",
+                             "CodSuerte":  "06",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  111.97
+                         },
+                         {
+                             "Codigo":  "991-04",
+                             "NomPluviometro":  "Santa Justa 04",
+                             "CodHacienda":  "991",
+                             "CodSuerte":  "04",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  100.33
+                         },
+                         {
+                             "Codigo":  "991-08",
+                             "NomPluviometro":  "Santa Justa 08",
+                             "CodHacienda":  "991",
+                             "CodSuerte":  "08",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  77.08
+                         },
+                         {
+                             "Codigo":  "991-21",
+                             "NomPluviometro":  "Santa Justa 21",
+                             "CodHacienda":  "991",
+                             "CodSuerte":  "21",
+                             "CodigoZona":  2,
+                             "Zona":  "2-ZONA CENTRO",
+                             "nAreaInfluencia":  107.06
+                         },
+                         {
+                             "Codigo":  "992-11",
+                             "NomPluviometro":  "Mecatepillo 11",
+                             "CodHacienda":  "992",
+                             "CodSuerte":  "11",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  127.51
+                         },
+                         {
+                             "Codigo":  "992-17",
+                             "NomPluviometro":  "Mecatepillo 17",
+                             "CodHacienda":  "992",
+                             "CodSuerte":  "17",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  91.48
+                         },
+                         {
+                             "Codigo":  "992-32",
+                             "NomPluviometro":  "Mecatepillo 32",
+                             "CodHacienda":  "992",
+                             "CodSuerte":  "32",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  219.38
+                         },
+                         {
+                             "Codigo":  "992-34",
+                             "NomPluviometro":  "Mecatepillo 34",
+                             "CodHacienda":  "992",
+                             "CodSuerte":  "34",
+                             "CodigoZona":  3,
+                             "Zona":  "3-ZONA NORTE",
+                             "nAreaInfluencia":  22.19
+                         },
+                         {
+                             "Codigo":  "993-14",
+                             "NomPluviometro":  "PANSACO 14",
+                             "CodHacienda":  "993",
+                             "CodSuerte":  "14",
+                             "CodigoZona":  5,
+                             "Zona":  "5-PRODUCTORES",
+                             "nAreaInfluencia":  121.16
+                         },
+                         {
+                             "Codigo":  "993-24",
+                             "NomPluviometro":  "PANSACO 24",
+                             "CodHacienda":  "993",
+                             "CodSuerte":  "24",
+                             "CodigoZona":  5,
+                             "Zona":  "5-PRODUCTORES",
+                             "nAreaInfluencia":  120.52
+                         },
+                         {
+                             "Codigo":  "993-39",
+                             "NomPluviometro":  "PANSACO 39",
+                             "CodHacienda":  "993",
+                             "CodSuerte":  "39",
+                             "CodigoZona":  5,
+                             "Zona":  "5-PRODUCTORES",
+                             "nAreaInfluencia":  79.07
+                         },
+                         {
+                             "Codigo":  "993-43",
+                             "NomPluviometro":  "PANSACO 43",
+                             "CodHacienda":  "993",
+                             "CodSuerte":  "43",
+                             "CodigoZona":  5,
+                             "Zona":  "5-PRODUCTORES",
+                             "nAreaInfluencia":  120.16
+                         }
+                     ]
+}
